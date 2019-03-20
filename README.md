@@ -1,1 +1,1 @@
-# :snake: Twisster CLI
+# :snake: Minuano CLI
